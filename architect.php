@@ -1,4 +1,11 @@
 <?php include('header.php') ?>
+    <style>
+        @media only screen and (max-width: 600px) {
+            [class="col-8"] {
+                width: 100%;
+            }
+        }
+    </style>
 
 <!-- start banner area -->
 <section class="inner-page banner" data-img="assets/images/inner/banner-bg5.jpg">
@@ -70,7 +77,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-8 pt-4">
+            <div class="col-8" style="margin-top: 15px;">
                 <h5><b>We are committed to exceeding your expectations by delivering:</b></h5>
                 <p class="pt-4">
                     <b>Creative and innovative designs : </b>
@@ -85,7 +92,7 @@
                     We keep you informed and involved every step of the way, ensuring clear communication and addressing any concerns promptly.
                 </p>
             </div>
-            <div class="col-4">
+            <div class="col-4" style="width: 350px; margin-top: 20px;">
                 <div class="img">
                     <img src="assets/images/service/architect/3.jpg" alt="Service" style="width: 450px;">
                 </div>

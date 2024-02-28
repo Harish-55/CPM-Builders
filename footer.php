@@ -86,7 +86,7 @@
                                     <i class="far fa-envelope"></i>
                                 </div>
                                 <p>
-                                    <a href="mailto:cpmbildersoffical@gmail.com" style="color:#fff">cpmbildersoffical@gmail.com</a>
+                                    <a href="mailto:info.cpmbuilders@gmail.com" style="color:#fff">info.cpmbuilders@gmail.com</a>
                                 </p>
 
                                 </p>

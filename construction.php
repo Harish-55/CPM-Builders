@@ -1,4 +1,11 @@
 ﻿<?php include('header.php') ?>
+<style>
+    @media only screen and (max-width: 600px) {
+        [class="col-7"] {
+            width: 100%;
+        }
+    }
+</style>
 
 <!-- start banner area -->
 <section class="inner-page banner" data-img="assets/images/inner/banner-bg6.jpg">
@@ -36,12 +43,12 @@
                     We combine experience, expertise, and meticulous craftsmanship to deliver high-quality construction projects that are on time, on budget, and exceed your expectations.
                 </p>
                 <div class="row pt-3">
-                    <div class="col-4">
-                        <div class="img pt-5 mt-5">
+                    <div class="col-5">
+                        <div class="img" style="width: 400px; margin-top: 95px;">
                             <img src="assets/images/service/construction/2.jpg" alt="Service" style="width: 550px;">
                         </div>
                     </div>
-                    <div class="col-8">
+                    <div class="col-7">
                         <h5>From the initial foundation to the finishing touches, we handle every aspect of the construction process:</h5>
                         <p>
                             <b>Pre-construction planning : </b>
@@ -71,7 +78,7 @@
                 </div>
 
                 <div class="row pt-3">
-                    <div class="col-8">
+                    <div class="col-7">
                         <h5><b>We are committed to:</b></h5>
                         <p>
                             <b>Exceeding expectations : </b>
@@ -86,8 +93,8 @@
                             We incorporate sustainable construction methods and materials whenever possible, minimizing environmental impact.
                         </p>
                     </div>
-                    <div class="col-4">
-                        <div class="img">
+                    <div class="col-5">
+                        <div class="img" style="width: 400px; margin-top: 75px;">
                             <img src="assets/images/service/construction/3.jpg" alt="Service" style="width: 450px;">
                         </div>
                     </div>

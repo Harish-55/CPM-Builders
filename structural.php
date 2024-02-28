@@ -1,4 +1,11 @@
 <?php include('header.php') ?>
+<style>
+    @media only screen and (max-width: 600px) {
+        [class="col-7"] {
+            width: 100%;
+        }
+    }
+</style>
 
 <!-- start banner area -->
 <section class="inner-page banner" data-img="assets/images/inner/banner-bg7.jpg">
@@ -23,7 +30,7 @@
 <!-- end banner area -->
 
 <!-- start service area -->
-<section class="service-page detail pt-120">
+<section class="service-page detail pt-80">
     <div class="container">
         <div class="left-part">
             <div class="image" style="text-align: center;">
@@ -35,13 +42,13 @@
                     Our team of highly qualified structural engineers is dedicated to ensuring the safety, stability, and longevity of your building projects.
                     We combine cutting-edge expertise with meticulous attention to detail to provide comprehensive structural engineering solutions tailored to your specific needs.
                 </p>
-                <div class="row pt-3">
-                    <div class="col-4">
-                        <div class="img pt-5">
+                <div class="row pt-3 text">
+                    <div class="col-5">
+                        <div class="img" style="width: 400px; margin-top: 75px;">
                             <img src="assets/images/service/structural/2.jpg" alt="Service" style="width: 550px;">
                         </div>
                     </div>
-                    <div class="col-8">
+                    <div class="col-7">
                         <h5>We offer a wide range of structural engineering services, including:</h5>
                         <p>
                             <b>Structural analysis and design : </b>
@@ -67,7 +74,7 @@
                 </div>
 
                 <div class="row pt-3">
-                    <div class="col-8">
+                    <div class="col-7">
                         <h5><b>We are committed to:</b></h5>
                         <p>
                             <b>Innovation : </b>
@@ -82,8 +89,8 @@
                             Designing structures that are built to last, ensuring long-term functionality and safety.
                         </p>
                     </div>
-                    <div class="col-4">
-                        <div class="img">
+                    <div class="col-5">
+                        <div class="img" style="width: 400px; margin-top: 75px;">
                             <img src="assets/images/service/structural/3.jpg" alt="Service" style="width: 450px;">
                         </div>
                     </div>

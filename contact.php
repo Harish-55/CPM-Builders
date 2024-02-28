@@ -80,7 +80,7 @@
                                     <span>Mail Us</span>
                                 </h3>
                                 <p class="icon-box-description mt-3">
-                                <a href="mailto:cpmbildersoffical@gmail.com" style="color:#606060">cpmbildersoffical@gmail.com</a>
+                                <a href="mailto:info.cpmbuilders@gmail.com" style="color:#606060">info.cpmbuilders@gmail.com</a>
                                 </p>
                             </div>
                         </div>
@@ -158,12 +158,13 @@
     </div>
 </section>
 <!-- end quote area -->
+<br>
 
 <!-- Map section start -->
-<section class="contact-page location">
+<!-- <section class="contact-page location">
     <div class="google-map-wrapper" data-latitude='40.7656561' data-longitude='-73.7691858' data-zoom='11'></div>
     <div id="map"></div>
-</section>
+</section> -->
 <!-- Map section end -->
 
 <?php include('footer.php') ?>

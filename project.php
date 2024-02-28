@@ -32,7 +32,7 @@
                     <p>Here are some of our best work that can inspire you!!!!</p>
                 </div>
             </div>
-            <div class="col-lg-12">
+            <!-- <div class="col-lg-12">
                 <ul class="project-menu d-flex justify-content-center wow fadeInUp" data-wow-delay="0.5s" data-wow-duration="1s">
                     <li class="active"><a href="#!" data-mixitup-control="" data-filter="all">all</a></li>
                     <li><a href="#!" data-mixitup-control="" data-filter=".com">commercial</a></li>
@@ -41,30 +41,30 @@
                     <li><a href="#!" data-mixitup-control="" data-filter=".int">interior</a></li>
                     <li><a href="#!" data-mixitup-control="" data-filter=".res">residential</a></li>
                 </ul>
-            </div>
+            </div> -->
             <div class="col-lg-12">
                 <div class="row filters">
                     <div class="col-lg-4 col-md-6">
                         <div class="row">
                             <div class="col-lg-12 mix com ext res">
                                 <div class="item wow fadeInRight" data-wow-delay="0.3s" data-wow-duration="1s">
-                                    <img src="assets/images/home1/project/img1.jpg" alt="Project">
-                                    <a href="assets/images/home1/project/img1a.jpg" class="popup-image">
+                                    <img src="assets/images/home1/project/1.jpeg" alt="Project">
+                                    <a href="assets/images/home1/project/1.jpeg" class="popup-image">
                                         <i class="flaticon-plus"></i>
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-lg-12 mix des int">
+                            <!-- <div class="col-lg-12 mix des int">
                                 <div class="item wow fadeInRight" data-wow-delay="0.3s" data-wow-duration="1s">
                                     <img src="assets/images/home1/project/img2.jpg" alt="Project">
                                     <a href="assets/images/home1/project/img2a.jpg" class="popup-image">
                                         <i class="flaticon-plus"></i>
                                     </a>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6">
+                    <!-- <div class="col-lg-4 col-md-6">
                         <div class="row">
                             <div class="col-lg-12 mix ext com">
                                 <div class="item wow fadeInUp" data-wow-delay="0.3s" data-wow-duration="1s">
@@ -111,7 +111,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
