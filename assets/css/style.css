@@ -1861,11 +1861,11 @@ p {
 ==================================================*/
 .home2.count{
   background-attachment: fixed !important;
-  margin-top: -320px;
+  /* margin-top: -320px; */
 }
 .home2.count .overlay{
   background: rgba(0, 0, 0, 0.62);
-  padding-top: 430px;
+  padding-top: 150px;
   padding-bottom: 100px;
 }
 .home2.count .item{
@@ -2361,7 +2361,7 @@ p {
   padding-bottom: 90px;
 }
 .service-page.detail .image img{
-  width: 100%;
+  /* width: 100%; */
 }
 .service-page.detail .text{
   padding-right: 50px;

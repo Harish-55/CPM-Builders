@@ -6,25 +6,23 @@
         <div class="row">
             <div class="col-lg-7">
                 <div class="text-area">
-                    <h5 class="wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1s">Simple & Secure Payment
-                        Process</h5>
-                    <h1 class="wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="1s">Giving Awesome Bulding
-                        Ideas Fresh Start</h1>
-                    <p class="wow fadeInUp" data-wow-delay="0.6s" data-wow-duration="1s">Lorem ipsum dolor sit amet,
-                        consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-                        aliqua. Ut enim</p>
+                    <h5 class="wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1s">Building Your Dreams, Together</h5>
+                    <h1 class="wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="1s">Trichy's Trusted Architects, Structural Engineers, and Builders.</h1>
+                    <p class="wow fadeInUp" data-wow-delay="0.6s" data-wow-duration="1s">
+                        Your one-stop shop for all your architectural, structural, and construction needs.
+                    </p>
                     <ul class="d-flex wow fadeInUp" data-wow-delay="0.8s" data-wow-duration="1s">
                         <li>
-                            <a class='button-style' href='about.php'>free analysis<i class="fas fa-arrow-circle-right"></i></a>
+                            <a class='button-style' href='contact.php'>free analysis<i class="fas fa-arrow-circle-right"></i></a>
                         </li>
-                        <li>
+                        <!-- <li>
                             <a class="special-btn d-flex align-items-center venobox" data-autoplay="true" data-vbtype="video" href="https://www.youtube.com/watch?v=LCmsrVOXzZc">
                                 <div class="vid-btn">
                                     <span class="btn-inner"><i class="flaticon-play-button"></i></span>
                                 </div>
                                 How we work
                             </a>
-                        </li>
+                        </li> -->
                     </ul>
                 </div>
             </div>
@@ -40,8 +38,10 @@
             <div class="col-xl-6 offset-xl-3 col-lg-8 offset-lg-2">
                 <div class="section-title wow fadeInUp" data-wow-delay="0.3s" data-wow-duration="1s">
                     <h2>What We Provide Special</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua saidul</p>
+                    <p>
+                        Experience the CPM Builders difference: personalized service, collaborative design, meticulous engineering,
+                        and quality construction that brings your vision to life.
+                    </p>
                 </div>
             </div>
             <div class="col-lg-12">
@@ -55,8 +55,7 @@
                                             <i class="flaticon-repair-tools"></i>
                                         </div>
                                         <h4>interior design</h4>
-                                        <p>Bring creature let Fish t grass under the given a void fromt deep form
-                                            greater and days give upon day light</p>
+                                        <p>Transform your space with personalized designs that reflect your unique style and functionality.</p>
                                     </div>
                                 </div>
                                 <div class="back">
@@ -65,8 +64,7 @@
                                             <i class="flaticon-repair-tools"></i>
                                         </div>
                                         <h4>interior design</h4>
-                                        <p>Bring creature let Fish t grass under the given a void fromt deep form
-                                            greater and days give upon day light</p>
+                                        <p>Transform your space with personalized designs that reflect your unique style and functionality.</p>
                                     </div>
                                 </div>
                             </div>
@@ -81,8 +79,7 @@
                                             <i class="flaticon-construction"></i>
                                         </div>
                                         <h4>budget planning</h4>
-                                        <p>Bring creature let Fish t grass under the given a void fromt deep form
-                                            greater and days give upon day light</p>
+                                        <p>Expert guidance to navigate your project finances, ensuring transparency and achieving your dream space within budget.</p>
                                     </div>
                                 </div>
                                 <div class="back">
@@ -91,8 +88,7 @@
                                             <i class="flaticon-construction"></i>
                                         </div>
                                         <h4>budget planning</h4>
-                                        <p>Bring creature let Fish t grass under the given a void fromt deep form
-                                            greater and days give upon day light</p>
+                                        <p>Expert guidance to navigate your project finances, ensuring transparency and achieving your dream space within budget.</p>
                                     </div>
                                 </div>
                             </div>
@@ -107,8 +103,7 @@
                                             <i class="flaticon-project"></i>
                                         </div>
                                         <h4>project planning</h4>
-                                        <p>Bring creature let Fish t grass under the given a void fromt deep form
-                                            greater and days give upon day light</p>
+                                        <p>Seamless project management, keeping you informed and involved every step of the way, from concept to completion.</p>
                                     </div>
                                 </div>
                                 <div class="back">
@@ -117,8 +112,7 @@
                                             <i class="flaticon-project"></i>
                                         </div>
                                         <h4>project planning</h4>
-                                        <p>Bring creature let Fish t grass under the given a void fromt deep form
-                                            greater and days give upon day light</p>
+                                        <p>Seamless project management, keeping you informed and involved every step of the way, from concept to completion.</p>
                                     </div>
                                 </div>
                             </div>
@@ -133,8 +127,7 @@
                                             <i class="flaticon-oil-pump"></i>
                                         </div>
                                         <h4>architecture service</h4>
-                                        <p>Bring creature let Fish t grass under the given a void fromt deep form
-                                            greater and days give upon day light</p>
+                                        <p>Creative and functional designs that blend aesthetics with structural integrity, exceeding building codes and expectations.</p>
                                     </div>
                                 </div>
                                 <div class="back">
@@ -143,8 +136,7 @@
                                             <i class="flaticon-oil-pump"></i>
                                         </div>
                                         <h4>architecture service</h4>
-                                        <p>Bring creature let Fish t grass under the given a void fromt deep form
-                                            greater and days give upon day light</p>
+                                        <p>Creative and functional designs that blend aesthetics with structural integrity, exceeding building codes and expectations.</p>
                                     </div>
                                 </div>
                             </div>
@@ -163,10 +155,11 @@
         <div class="row align-items-center">
             <div class="col-lg-6 order-1 order-lg-0">
                 <div class="section-title wow fadeInUp" data-wow-delay="0.3s" data-wow-duration="1s">
-                    <h2>We Are The Leader In The Architectura!</h2>
-                    <p>We work with the public sector to build thriving communities. And we ork with regulators and
-                        financial institutions to build trust and integrity in ets uis aliqua sunt nisi consectetur
-                        anim.</p>
+                    <h2>We are Your Trusted Partner in Construction:</h2>
+                    <p>
+                        At CPM Builders, we're more than just a construction company. We're a team of passionate architects, structural engineers, and construction professionals dedicated to turning your vision into reality.
+                        With over [number] years of experience in Trichy, Tamil Nadu, we've built a reputation for exceptional quality, personalized service, and unwavering commitment to client satisfaction.
+                    </p>
                 </div>
                 <div class="content">
                     <ul>
@@ -176,8 +169,7 @@
                             </div>
                             <div class="text">
                                 <h5>exterior design</h5>
-                                <p>Medixer Care will be administered through plan-based omizable incorporate
-                                    partnership between family.</p>
+                                <p>Craft a captivating facade that reflects your style & enhances outdoor living.</p>
                             </div>
                         </li>
                         <li class="wow fadeInUp" data-wow-delay="0.5s" data-wow-duration="1s">
@@ -186,8 +178,7 @@
                             </div>
                             <div class="text">
                                 <h5>plan estimator</h5>
-                                <p>Medixer Care will be administered through plan-based omizable incorporate
-                                    partnership between family.</p>
+                                <p>Get a professional, personalized budget estimate for your project.</p>
                             </div>
                         </li>
                     </ul>
@@ -211,43 +202,43 @@
             <div class="col-xl-6 offset-xl-3 col-lg-8 offset-lg-2">
                 <div class="section-title wow fadeInUp" data-wow-delay="0.3s" data-wow-duration="1s">
                     <h2>service we're offering</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua saidul</p>
+                    <p>We transform your vision into reality. Our architects, structural engineers, and construction team collaborate seamlessly to design, engineer, and build exceptional spaces that meet your needs and exceed expectations.</p>
                 </div>
             </div>
             <div class="col-lg-12">
                 <div class="row g-0">
                     <div class="col-lg-4 col-md-6">
-                        <div class="single wow fadeInRight" data-img="assets/images/home1/service/img2.jpg" data-wow-delay="0.3s" data-wow-duration="1s">
+                        <div class="single wow fadeInRight" data-img="assets/images/home1/service/img1.jpg" data-wow-delay="0.3s" data-wow-duration="1s">
                             <div class="overlay">
                                 <div class="icon">
                                     <i class="flaticon-architect"></i>
                                 </div>
                                 <h4>Architect</h4>
-                                <p>Lorem ipsum dolor sit amet, c adipisicing elit, sed do eiusmod tempor incididunt uty labore et dolore magna aliqua. Ut enimd minim veniam, quis nostrud</p>
+                                <p>Expert architects design your dream space, balancing functionality and aesthetics.<br><br></p>
                                 <a href='architect.php'>read more</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
-                        <div class="single wow fadeInDown" data-img="assets/images/home1/service/img4.jpg" data-wow-delay="0.3s" data-wow-duration="1s">
+                        <div class="single wow fadeInDown" data-img="assets/images/home1/service/img2.jpg" data-wow-delay="0.3s" data-wow-duration="1s">
                             <div class="overlay">
                                 <div class="icon">
                                     <i class="flaticon-hook"></i>
                                 </div>
                                 <h4>Structural</h4>
-                                <p>Lorem ipsum dolor sit amet, c adipisicing elit, sed do eiusmod tempor incididunt uty labore et dolore magna aliqua. Ut enimd minim veniam, quis nostrud</p>
+                                <p>Structural engineers guarantee the safety and stability of your building, ensuring peace of mind.</p>
                                 <a href='structural.php'>read more</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
-                        <div class="single wow fadeInLeft" data-img="assets/images/home1/service/img6.jpg" data-wow-delay="0.3s" data-wow-duration="1s">
+                        <div class="single wow fadeInLeft" data-img="assets/images/home1/service/img3.jpg" data-wow-delay="0.3s" data-wow-duration="1s">
                             <div class="overlay">
                                 <div class="icon">
                                     <i class="flaticon-construction"></i>
                                 </div>
                                 <h4>Construction</h4>
-                                <p>Lorem ipsum dolor sit amet, c adipisicing elit, sed do eiusmod tempor incididunt uty labore et dolore magna aliqua. Ut enimd minim veniam, quis nostrud</p>
+                                <p>Skilled construction professionals transform your plans into reality, ensuring quality and craftsmanship.</p>
                                 <a href='construction.php'>read more</a>
                             </div>
                         </div>
@@ -266,17 +257,16 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 order-1 order-lg-0">
                     <div class="section-title wow fadeInUp" data-wow-delay="0.3s" data-wow-duration="1s">
-                        <h2>We Provide High Perfomance Innovate Machines</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-                            incididunt ut labore et </p>
+                        <h2>Let's Discuss Your Project: Free Consultation Available.</h2>
+                        <p>Don't wait! Get a free quote and see how we can bring your vision to life.</p>
                     </div>
                     <div class="content wow fadeInUp" data-wow-delay="0.5s" data-wow-duration="1s">
-                        <a class='button-style' href='service.php'>read more <i class="fas fa-arrow-circle-right"></i></a>
+                        <a class='button-style' href='contact.php'>read more <i class="fas fa-arrow-circle-right"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-6 order-0 order-lg-1">
                     <div class="content vid-content text-center">
-                        <a class="venobox" data-autoplay="true" data-vbtype="video" href="https://www.youtube.com/watch?v=iIvCUpGMs9E">
+                        <a class="venobox" data-autoplay="true" data-vbtype="video" href="javascript:void(0)">
                             <i class="flaticon-play-button"></i>
                         </a>
                     </div>
@@ -294,8 +284,8 @@
             <div class="col-xl-6 offset-xl-3 col-lg-8 offset-lg-2">
                 <div class="section-title wow fadeInUp" data-wow-delay="0.3s" data-wow-duration="1s">
                     <h2>our customers love</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua saidul</p>
+                    <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+                        labore et dolore magna aliqua saidul</p> -->
                 </div>
             </div>
             <div class="col-lg-12">
@@ -306,12 +296,12 @@
                                 <div class="swiper-wrapper">
                                     <div class="swiper-slide">
                                         <div class="image">
-                                            <img src="assets/images/home1/client/client1.png" alt="Client">
+                                            <img src="assets/images/home1/client/client1.png" style="width: 350px;" alt="Client">
                                         </div>
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="image">
-                                            <img src="assets/images/home1/client/client2.png" alt="Client">
+                                            <img src="assets/images/home1/client/client1.png" style="width: 350px;" alt="Client">
                                         </div>
                                     </div>
                                 </div>
@@ -324,8 +314,8 @@
                                         <div class="content">
                                             <div class="author d-flex justify-content-between align-items-center">
                                                 <div class="name">
-                                                    <h5>Zachary Farmer</h5>
-                                                    <p class="designation">developer</p>
+                                                    <h5>Happy Customer</h5>
+                                                    <p class="designation">From Google</p>
                                                 </div>
                                                 <ul class="rating d-flex">
                                                     <li><i class="fas fa-star"></i></li>
@@ -335,18 +325,18 @@
                                                     <li><i class="fas fa-star"></i></li>
                                                 </ul>
                                             </div>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed eiusmod
-                                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad mini
-                                                veniam, quis nostrud exercitation ullamco laboris</p>
-                                            <img src="assets/images/home1/client/signature.png" alt="Signature">
+                                            <p>
+                                                Architect at CPM Builders patiently designed our dream home.
+                                                The construction team was professional and kept us informed. We love our new home!
+                                            </p>
                                         </div>
                                     </div>
                                     <div class="item swiper-slide">
                                         <div class="content">
                                             <div class="author d-flex justify-content-between align-items-center">
                                                 <div class="name">
-                                                    <h5>dolor dale</h5>
-                                                    <p class="designation">developer</p>
+                                                    <h5>Happy Customer</h5>
+                                                    <p class="designation">From Google</p>
                                                 </div>
                                                 <ul class="rating d-flex">
                                                     <li><i class="fas fa-star"></i></li>
@@ -356,10 +346,31 @@
                                                     <li><i class="fas fa-star"></i></li>
                                                 </ul>
                                             </div>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed eiusmod
-                                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad mini
-                                                veniam, quis nostrud exercitation ullamco laboris</p>
-                                            <img src="assets/images/home1/client/signature.png" alt="Signature">
+                                            <p>
+                                                CPM Builders' engineers ensured our new office building was safe and aesthetically pleasing.
+                                                Highly recommend them for commercial projects in Trichy.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="item swiper-slide">
+                                        <div class="content">
+                                            <div class="author d-flex justify-content-between align-items-center">
+                                                <div class="name">
+                                                    <h5>Happy Customer</h5>
+                                                    <p class="designation">From Google</p>
+                                                </div>
+                                                <ul class="rating d-flex">
+                                                    <li><i class="fas fa-star"></i></li>
+                                                    <li><i class="fas fa-star"></i></li>
+                                                    <li><i class="fas fa-star"></i></li>
+                                                    <li><i class="fas fa-star"></i></li>
+                                                    <li><i class="fas fa-star"></i></li>
+                                                </ul>
+                                            </div>
+                                            <p>
+                                                CPM Builders transformed our outdated kitchen into a modern dream space.
+                                                They were flexible and exceeded expectations. Thank you!
+                                            </p>
                                         </div>
                                     </div>
                                 </div>

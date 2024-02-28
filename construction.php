@@ -1,7 +1,7 @@
 ﻿<?php include('header.php') ?>
 
 <!-- start banner area -->
-<section class="inner-page banner" data-img="assets/images/inner/banner-bg.jpg">
+<section class="inner-page banner" data-img="assets/images/inner/banner-bg6.jpg">
     <div class="overlay">
         <div class="container">
             <div class="row">
@@ -25,110 +25,98 @@
 <!-- start service area -->
 <section class="service-page detail pt-120">
     <div class="container">
-        <div class="row">
-            <!-- start left aprt -->
-            <div class="col-lg-8 order-1 order-lg-0">
-                <div class="left-part">
-                    <div class="image">
-                        <img src="assets/images/service/big-img.jpg" alt="Service">
-                    </div>
-                    <div class="text">
-                        <h5>Strategic & Tactical Planning</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat qui ducimus illum modi?
-                            perspiciatis accusamus soluta perferendis, ad illum, nesciunt, reiciendis iusto et cupidit
-                            Repudiandae provident to consectetur, sapiente, libero iure necessitatibus corporis nulla
-                            voluptate, quisquam aut perspiciatis? Fugiat labore aspernatur eius, perspiciatis ut
-                            molestiae, delectus rem.</p>
-                        <div class="img">
-                            <img src="assets/images/service/img.jpg" alt="Service">
+        <div class="left-part">
+            <div class="image" style="text-align: center;">
+                <img src="assets/images/service/construction/1.jpg" alt="Service">
+            </div>
+            <div class="text">
+                <h5>Transforming Your Vision into Reality</h5>
+                <p>
+                    Our skilled construction team is passionate about bringing your vision to life.
+                    We combine experience, expertise, and meticulous craftsmanship to deliver high-quality construction projects that are on time, on budget, and exceed your expectations.
+                </p>
+                <div class="row pt-3">
+                    <div class="col-4">
+                        <div class="img pt-5 mt-5">
+                            <img src="assets/images/service/construction/2.jpg" alt="Service" style="width: 550px;">
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicin elit, sed do eiusmod tempor incididunt ut
-                            labore et doloret magna aliqua. Ut enim ad minim veniam, quis nostru exercitation ullamco
-                            laboris</p>
-                        <p>nisi ut aliquip ex ea commodo consequat. Duis autetu irure dolor in reprehenderit in
-                            voluptate velit essede cillum dolore eu fugiat nulla pariatur</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat qui ducimus illum modi?
-                            perspiciatis accusamus soluta perferendis, ad illum, nesciunt, reiciendis iusto et cupidit
-                            Repudiandae provident to consectetur, sapiente, libero iure necessitatibus corporis nulla
-                            voluptate, quisquam aut perspiciatis? Fugiat labore aspernatur eius, perspiciatis ut
-                            molestiae, delectus rem.</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat qui ducimus illum modi?
-                            perspiciatis accusamus soluta perferendis, ad illum, nesciunt, reiciendis iusto et cupidit
-                            Repudiandae provident to consectetur, sapiente, libero iure necessitatibus corporis nulla
-                            voluptate, quisquam aut perspiciatis? Fugiat labore aspernatur eius, perspiciatis ut
-                            molestiae, delectus rem.</p>
+                    </div>
+                    <div class="col-8">
+                        <h5>From the initial foundation to the finishing touches, we handle every aspect of the construction process:</h5>
+                        <p>
+                            <b>Pre-construction planning : </b>
+                            We collaborate with architects, engineers, and other stakeholders to ensure a smooth and efficient construction process.
+                        </p>
+                        <p>
+                            <b>Project management : </b>
+                            We oversee all aspects of the project, including scheduling, budgeting, resource allocation, and quality control.
+                        </p>
+                        <p>
+                            <b>Skilled workforce : </b>
+                            Our team of experienced and qualified professionals are dedicated to delivering exceptional workmanship.
+                        </p>
+                        <p>
+                            <b>Quality materials : </b>
+                            We use high-quality materials that meet industry standards and ensure the longevity of your project.
+                        </p>
+                        <p>
+                            <b>Safety first : </b>
+                            We prioritize safety throughout the construction process, implementing strict protocols and maintaining a safe working environment.
+                        </p>
+                        <p>
+                            <b>Clear communication : </b>
+                            We keep you informed and involved every step of the way, addressing any concerns promptly and transparently.
+                        </p>
                     </div>
                 </div>
-            </div>
-            <!-- end left aprt -->
 
-            <!-- start right aprt -->
-            <div class="col-lg-4 order-0 order-lg-1">
-                <div class="right-part">
-                    <div class="item">
-                        <div class="title">
-                            <h5>all services</h5>
-                        </div>
-                        <ul>
-                            <li>
-                                <p>business analysis</p>
-                            </li>
-                            <li>
-                                <p>business promotion</p>
-                            </li>
-                            <li>
-                                <p>high quality service</p>
-                            </li>
-                            <li>
-                                <p>report analysis</p>
-                            </li>
-                            <li>
-                                <p>social media marketing</p>
-                            </li>
-                            <li>
-                                <p>cotent making</p>
-                            </li>
-                        </ul>
+                <div class="row pt-3">
+                    <div class="col-8">
+                        <h5><b>We are committed to:</b></h5>
+                        <p>
+                            <b>Exceeding expectations : </b>
+                            We go the extra mile to deliver exceptional results that surpass your initial vision.
+                        </p>
+                        <p>
+                            <b>On-time and on-budget completion : </b>
+                            We adhere to established timelines and budgets, ensuring efficient project execution.
+                        </p>
+                        <p>
+                            <b>Sustainable practices : </b>
+                            We incorporate sustainable construction methods and materials whenever possible, minimizing environmental impact.
+                        </p>
                     </div>
-                    <div class="item hours">
-                        <div class="title">
-                            <h5>opening hours</h5>
-                        </div>
-                        <ul>
-                            <li class="d-flex align-items-center justify-content-between">
-                                <p>monday - friday</p>
-                                <p>09:00 - 20:00</p>
-                            </li>
-                            <li class="d-flex align-items-center justify-content-between">
-                                <p>saturday</p>
-                                <p>10:00 - 16:00</p>
-                            </li>
-                            <li class="d-flex align-items-center justify-content-between">
-                                <p>sunday</p>
-                                <p>09:30 - 18:00</p>
-                            </li>
-                        </ul>
-                        <a class='button-style' href='service.php'>service <i
-                                class="fas fa-arrow-circle-right"></i></a>
-                    </div>
-                    <div class="item">
-                        <div class="title">
-                            <h5>images</h5>
-                        </div>
+                    <div class="col-4">
                         <div class="img">
-                            <img src="assets/images/service/img2.jpg" alt="Service">
+                            <img src="assets/images/service/construction/3.jpg" alt="Service" style="width: 450px;">
                         </div>
-                    </div>
-                    <div class="item">
-                        <div class="title">
-                            <h5>about us</h5>
-                        </div>
-                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugiat, distinctio tempora itaque
-                            exercitationem deleniti aspernatur cumque id necessitatibus suscipit qui.</p>
                     </div>
                 </div>
+
+                <div>
+                    <h5 class="pt-3"><b>Why Choose Us ?</b></h5>
+                    <p>
+                        <b>Proven track record : </b>
+                        We have a history of successful projects, delivering high-quality construction solutions for diverse clients.
+                    </p>
+                    <p>
+                        <b>Collaborative approach : </b>
+                        We work closely with you to understand your needs, preferences, and budget, ensuring a successful outcome.
+                    </p>
+                    <p>
+                        <b>Dedication to quality : </b>
+                        We are committed to delivering exceptional craftsmanship and exceeding industry standards in every aspect of construction.
+                    </p>
+                </div>
+
+                <div class="image" style="text-align: center;">
+                    <img src="assets/images/service/construction/4.jpg" alt="Service">
+                </div>
+
+                <h5 class="pt-3"><b>Ready to transform your vision into reality?</b></h5>
+                <p>
+                    Contact us today to discuss your project and experience the difference our skilled construction team can make. </p>
             </div>
-            <!-- end right aprt -->
         </div>
     </div>
 </section>

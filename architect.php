@@ -1,7 +1,7 @@
 <?php include('header.php') ?>
 
 <!-- start banner area -->
-<section class="inner-page banner" data-img="assets/images/inner/banner-bg.jpg">
+<section class="inner-page banner" data-img="assets/images/inner/banner-bg5.jpg">
     <div class="overlay">
         <div class="container">
             <div class="row">
@@ -26,109 +26,77 @@
 <section class="service-page detail pt-120">
     <div class="container">
         <div class="row">
-            <!-- start left aprt -->
-            <div class="col-lg-8 order-1 order-lg-0">
+            <div class="col-lg-12 order-1 order-lg-0">
                 <div class="left-part">
-                    <div class="image">
-                        <img src="assets/images/service/big-img.jpg" alt="Service">
+                    <div class="image" style="text-align: center;">
+                        <img src="assets/images/service/architect/1.jpg" alt="Service">
                     </div>
                     <div class="text">
-                        <h5>Strategic & Tactical Planning</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat qui ducimus illum modi?
-                            perspiciatis accusamus soluta perferendis, ad illum, nesciunt, reiciendis iusto et cupidit
-                            Repudiandae provident to consectetur, sapiente, libero iure necessitatibus corporis nulla
-                            voluptate, quisquam aut perspiciatis? Fugiat labore aspernatur eius, perspiciatis ut
-                            molestiae, delectus rem.</p>
+                        <h5>Our Architectural Expertise: Crafting Exceptional Spaces:</h5>
+                        <p>
+                            Our team of passionate architects brings a wealth of experience and creativity to every project.
+                            We believe in collaborative design, working closely with our clients to understand their vision, needs, and preferences.
+                            We translate their dreams into functional and aesthetically pleasing spaces that are tailored to their unique lifestyle and budget.
+                        </p>
+                        <p>
+                            Our design process is meticulous and comprehensive, ensuring every detail is carefully considered.
+                            We start with initial consultations to understand your project goals and aspirations. We then move into concept development, exploring various design options and presenting you with initial sketches and proposals.
+                            Once a design is finalized, we create detailed drawings and work closely with engineers and contractors to ensure seamless project execution.
+                        </p>
                         <div class="img">
-                            <img src="assets/images/service/img.jpg" alt="Service">
+                            <img src="assets/images/service/architect/2.jpg" alt="Service" style="width: 500px;">
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicin elit, sed do eiusmod tempor incididunt ut
-                            labore et doloret magna aliqua. Ut enim ad minim veniam, quis nostru exercitation ullamco
-                            laboris</p>
-                        <p>nisi ut aliquip ex ea commodo consequat. Duis autetu irure dolor in reprehenderit in
-                            voluptate velit essede cillum dolore eu fugiat nulla pariatur</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat qui ducimus illum modi?
-                            perspiciatis accusamus soluta perferendis, ad illum, nesciunt, reiciendis iusto et cupidit
-                            Repudiandae provident to consectetur, sapiente, libero iure necessitatibus corporis nulla
-                            voluptate, quisquam aut perspiciatis? Fugiat labore aspernatur eius, perspiciatis ut
-                            molestiae, delectus rem.</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat qui ducimus illum modi?
-                            perspiciatis accusamus soluta perferendis, ad illum, nesciunt, reiciendis iusto et cupidit
-                            Repudiandae provident to consectetur, sapiente, libero iure necessitatibus corporis nulla
-                            voluptate, quisquam aut perspiciatis? Fugiat labore aspernatur eius, perspiciatis ut
-                            molestiae, delectus rem.</p>
+                        <div>
+                            <h5>Our areas of expertise encompass a wide range of architectural styles and project types, including:</h5>
+                            <p>
+                                <b>Residential : </b>
+                                Single-family homes, multi-family dwellings, custom design solutions.
+                            </p>
+                            <p>
+                                <b>Commercial : </b>
+                                Office buildings, retail spaces, restaurants, hospitality projects.
+                            </p>
+                            <p>
+                                <b>Sustainable Design : </b>
+                                Utilizing eco-friendly materials, incorporating energy-efficient features, and minimizing environmental impact.
+                            </p>
+                            <p>
+                                <b>Historic Preservation : </b>
+                                Restoring and revitalizing historical structures while maintaining their architectural integrity.
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>
-            <!-- end left aprt -->
-
-            <!-- start right aprt -->
-            <div class="col-lg-4 order-0 order-lg-1">
-                <div class="right-part">
-                    <div class="item">
-                        <div class="title">
-                            <h5>all services</h5>
-                        </div>
-                        <ul>
-                            <li>
-                                <p>business analysis</p>
-                            </li>
-                            <li>
-                                <p>business promotion</p>
-                            </li>
-                            <li>
-                                <p>high quality service</p>
-                            </li>
-                            <li>
-                                <p>report analysis</p>
-                            </li>
-                            <li>
-                                <p>social media marketing</p>
-                            </li>
-                            <li>
-                                <p>cotent making</p>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="item hours">
-                        <div class="title">
-                            <h5>opening hours</h5>
-                        </div>
-                        <ul>
-                            <li class="d-flex align-items-center justify-content-between">
-                                <p>monday - friday</p>
-                                <p>09:00 - 20:00</p>
-                            </li>
-                            <li class="d-flex align-items-center justify-content-between">
-                                <p>saturday</p>
-                                <p>10:00 - 16:00</p>
-                            </li>
-                            <li class="d-flex align-items-center justify-content-between">
-                                <p>sunday</p>
-                                <p>09:30 - 18:00</p>
-                            </li>
-                        </ul>
-                        <a class='button-style' href='service.php'>service <i class="fas fa-arrow-circle-right"></i></a>
-                    </div>
-                    <div class="item">
-                        <div class="title">
-                            <h5>images</h5>
-                        </div>
-                        <div class="img">
-                            <img src="assets/images/service/img2.jpg" alt="Service">
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="title">
-                            <h5>about us</h5>
-                        </div>
-                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugiat, distinctio tempora itaque
-                            exercitationem deleniti aspernatur cumque id necessitatibus suscipit qui.</p>
-                    </div>
-                </div>
-            </div>
-            <!-- end right aprt -->
         </div>
+        <div class="row">
+            <div class="col-8 pt-4">
+                <h5><b>We are committed to exceeding your expectations by delivering:</b></h5>
+                <p class="pt-4">
+                    <b>Creative and innovative designs : </b>
+                    We push boundaries and explore new ideas to create unique and inspiring spaces that reflect your individuality.
+                </p>
+                <p class="pt-3">
+                    <b>Unwavering commitment to quality : </b>
+                    We use high-quality materials, adhere to strict building codes, and maintain meticulous attention to detail throughout the entire process.
+                </p>
+                <p class="pt-3">
+                    <b>Transparent communication : </b>
+                    We keep you informed and involved every step of the way, ensuring clear communication and addressing any concerns promptly.
+                </p>
+            </div>
+            <div class="col-4">
+                <div class="img">
+                    <img src="assets/images/service/architect/3.jpg" alt="Service" style="width: 450px;">
+                </div>
+            </div>
+        </div>
+        <p class="pt-3">
+            We believe in building lasting relationships with our clients and are dedicated to exceeding their expectations. Let us help you turn your vision into reality.
+        </p>
+        <p class="pt-3">
+            Schedule a consultation today to discuss your project and explore how our architectural expertise can bring your dream space to life.
+        </p>
     </div>
 </section>
 <!-- end service area -->

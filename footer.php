@@ -7,14 +7,17 @@
                 <div class="col-lg-3 col-md-12">
                     <div class="content newsletter">
                         <div class="title">
-                            <h5>newsletter</h5>
+                            <a class='navbar-brand p-0' href='index.php'>
+                                <img src="assets/images/logo.png" alt="Logo" style="width: 150px;">
+                            </a>
                         </div>
-                        <p>Fill their seed open meat. Sea you great Saw image stl</p>
-                        <div class="form-area">
-                            <input type="email" placeholder="email address" class="inputs">
-                            <button type="submit">subscribe</button>
-                        </div>
+                        <p>Transforming blueprints into beautiful realities. Your reliable partner in construction excellence.</p>
                     </div>
+
+                    <ul class="icon" style="height: 50px;">
+                        <a href="https://www.facebook.com/cpmbuilders" target="_blank"><i class="fab fa-facebook-f" style="color: #fd5d14;"></i></a>
+                        <!-- <a href="" style="margin-left: 25px;"><i class="fab fa-instagram"></i></a> -->
+                    </ul>
                 </div>
                 <div class="col-lg-3 col-md-12" style="padding-left: 35px;">
                     <div class="content">
@@ -22,11 +25,21 @@
                             <h5>Quicks Links</h5>
                         </div>
                         <ul class="links">
-                            <li><a href='index.php'><p>Home</p></a></li>
-                            <li><a href='about.php'><p>About Us</p></a></li>
-                            <li><a href='service.php'><p>Services</p></a></li>
-                            <li><a href='project.php'><p>Gallery</p></a></li>
-                            <li><a href='contact.php'><p>Contact Us</p></a></li>
+                            <li><a href='index.php'>
+                                    <p>Home</p>
+                                </a></li>
+                            <li><a href='about.php'>
+                                    <p>About Us</p>
+                                </a></li>
+                            <li><a href='service.php'>
+                                    <p>Services</p>
+                                </a></li>
+                            <li><a href='project.php'>
+                                    <p>Gallery</p>
+                                </a></li>
+                            <li><a href='contact.php'>
+                                    <p>Contact Us</p>
+                                </a></li>
                         </ul>
                     </div>
                 </div>
@@ -36,9 +49,15 @@
                             <h5>Our Services</h5>
                         </div>
                         <ul class="links">
-                            <li><a href='service.php'><p>Construction</p></a></li>
-                            <li><a href='service.php'><p>Architect</p></a></li>
-                            <li><a href='service.php'><p>Structural</p></a></li>
+                            <li><a href='construction.php'>
+                                    <p>Construction</p>
+                                </a></li>
+                            <li><a href='architect.php'>
+                                    <p>Architect</p>
+                                </a></li>
+                            <li><a href='structural.php'>
+                                    <p>Structural</p>
+                                </a></li>
                         </ul>
                     </div>
                 </div>
@@ -52,19 +71,25 @@
                                 <div class="icon">
                                     <i class="fas fa-map-marker-alt"></i>
                                 </div>
-                                <p>(800) 123 456 789</p>
+                                <p>10, Thanjavur Rd, Kailash Nagar, Pappakurichi Kattur, Trichy,</p>
                             </li>
                             <li class="d-flex align-items-center">
                                 <div class="icon">
                                     <i class="fas fa-phone-alt"></i>
                                 </div>
-                                <p>+1 800 123 4567</p>
+                                <p>
+                                    <a href="tel:+919942522211" style="color:#fff">+91 9942522211</a>
+                                </p>
                             </li>
                             <li class="d-flex align-items-center">
                                 <div class="icon">
                                     <i class="far fa-envelope"></i>
                                 </div>
-                                <p> example@mail.com</p>
+                                <p>
+                                    <a href="mailto:cpmbildersoffical@gmail.com" style="color:#fff">cpmbildersoffical@gmail.com</a>
+                                </p>
+
+                                </p>
                             </li>
                         </ul>
                     </div>
@@ -83,12 +108,12 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <ul class="d-flex">
-                                    <li><span style="color: white;">Copyright &copy; 2023</span><a href="javascript:void(0)"> CPM Builders</a><span style="color: white;"> . All Rights Reserved </span></li>
+                                    <li><span style="color: white;">Copyright &copy; 2024</span><a href="javascript:void(0)" style="color: #fd5d14;"> CPM Builders</a><span style="color: white;"> . All Rights Reserved </span></li>
                                 </ul>
                             </div>
                             <div class="col-lg-6">
                                 <ul class="d-flex justify-content-end">
-                                    <li><span style="color: white;">Crafted by</span><a href="https://zworktechnology.com/" target="_blank" style="text-transform: none;"> zworktechnology.com</a></li>
+                                    <li><span style="color: white;">Crafted by</span><a href="https://zworktechnology.com/" target="_blank" style="color: #fd5d14;text-transform: none;"> zworktechnology.com</a></li>
                                 </ul>
                             </div>
                         </div>

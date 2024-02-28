@@ -74,7 +74,7 @@
                         <div class="menu-bg">
                             <nav class="navbar p-0">
                                 <a class='navbar-brand p-0' href='index.php'>
-                                    <img src="assets/images/logo.png" alt="Logo">
+                                    <img src="assets/images/logo.png" alt="Logo" style="width: 150px;">
                                 </a>
                                 <div class="header-menu position-static">
                                     <ul class="menu">
@@ -86,7 +86,7 @@
                                     </ul>
                                 </div>
                                 <div class="right-part">
-                                    <a class='button-style' href='javascript:void(0)'>Chat on Whatsapp
+                                    <a class='button-style' href="https://api.whatsapp.com/send/?phone=%2B919942522211&text&type=phone_number&app_absent=0" target="_blank">Chat on Whatsapp
                                         <i class="fas fa-arrow-circle-right"></i>
                                     </a>
                                 </div>
