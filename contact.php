@@ -50,9 +50,8 @@
                                     <span>Our Location</span>
                                 </h3>
                                 <p class="icon-box-description mt-3 mb-2">
-                                10, Thanjavur Rd, Kailash Nagar,<br>
-                                 Pappakurichi Kattur,<br>
-                                  Tiruchirappalli
+                                    10, Thanjavur Rd, Kailash Nagar,
+                                    Kattur,Tiruchirappall.
                                 </p>
                             </div>
                         </div>
@@ -80,7 +79,8 @@
                                     <span>Mail Us</span>
                                 </h3>
                                 <p class="icon-box-description mt-3">
-                                <a href="mailto:info.cpmbuilders@gmail.com" style="color:#606060">info.cpmbuilders@gmail.com</a>
+                                    <a href="mailto:info.cpmbuilders@gmail.com" style="color:#606060">info.cpmbuilders@gmail.com</a>
+                                    <a href="mailto:info@cpmbuilders.com" style="color:#606060">info@cpmbuilders.com</a>
                                 </p>
                             </div>
                         </div>
@@ -112,7 +112,7 @@
                                 <div class="section-title wow fadeInUp" data-wow-delay="0.3s" data-wow-duration="1s">
                                     <h2>get a free quote</h2>
                                 </div>
-                                <form action="mail.php" method="POST" class="wow fadeInUp" data-wow-delay="0.5s" data-wow-duration="1s" autocomplete="off" >
+                                <form action="mail.php" method="POST" class="wow fadeInUp" data-wow-delay="0.5s" data-wow-duration="1s" autocomplete="off">
                                     <div class="row">
                                         <div class="col-lg-6 col-md-6">
                                             <label for="name">

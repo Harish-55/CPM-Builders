@@ -77,9 +77,9 @@
                                     <img src="assets/images/logo.png" alt="Logo" style="width: 150px;">
                                 </a>
                                 <div class="header-menu position-static">
-                                    <ul class="menu">
-                                        <li><a href='index.php'>Home</a></li>
-                                        <li><a href='about.php'>About Us</a></li>
+                                    <ul class="menu" id="myDIV">
+                                        <li class="active"><a href='index.php'>Home</a></li>
+                                        <li><a href='about.php' class="active">About Us</a></li>
                                         <li><a href="service.php">Services</a>
                                             <ul>
                                                 <li><a href='architect.php'>Architect</a></li>

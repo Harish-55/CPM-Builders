@@ -49,8 +49,8 @@
                                 <div class="item wow fadeInRight" data-wow-delay="0.3s" data-wow-duration="1s">
                                     <img src="assets/images/home1/project/img1.jpeg" alt="Project">
                                     <a href="assets/images/home1/project/img1a.jpg" class="popup-image">
-                                        <h3>Project Name</h3>
-                                        <p>Place</p>
+                                        <h3 style="margin-left: 5px; margin-top: 5px;">Project Name</h3>
+                                        <p style="margin-left: 7px;">Place</p>
                                     </a>
                                 </div>
                             </div>

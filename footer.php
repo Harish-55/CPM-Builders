@@ -20,6 +20,7 @@
                         <a href="https://www.instagram.com/info.cpmbuilders/" target="_blank" style="margin-left: 20px;"><i class="fab fa-instagram" style="color: #e2b907;"></i></a>
                         <a href="https://www.youtube.com/info.cpmbuilders" target="_blank" style="margin-left: 20px;"><i class="fab fa-youtube" style="color: #e2b907;"></i></a>
                         <a href="https://www.linkedin.com/info.cpmbuilders" target="_blank" style="margin-left: 20px;"><i class="fab fa-linkedin" style="color: #e2b907;"></i></a>
+                        <a href="https://www.threads.com/info.cpmbuilders" target="_blank" style="margin-left: 20px;"><i class="fa-brands fa-threads" style="color: #e2b907;"></i></a>
 
                     </ul>
                 </div>
@@ -163,6 +164,7 @@
 
 <!-- script -->
 <script src="assets/js/script.js"></script>
+
 </body>
 
 </html>

@@ -1411,6 +1411,7 @@ p {
   -o-transform: translate(-50%,-50%) scale(0);
   z-index: 5;
   opacity: 0;
+  border-radius: 5px;
 }
 .home1.project .item a i{
   font-size: 24px;
