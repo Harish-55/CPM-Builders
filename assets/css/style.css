@@ -62,7 +62,7 @@ Developer: Najmul Huda Eimon
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
 
 :root{
-    --orange: #fd5d14;
+    --orange: #e2b907;
     --deep-blue: #061738;
     --grey: #606060;
     --white: #fff;
@@ -755,7 +755,7 @@ p {
   content: '';
   height: 100%;
   width: calc(100% - 44px);
-  border: 3px solid rgba(253, 94, 20, 0.4);
+  border: 3px solid #e2b907;
   position: absolute;
   top: 16px;
   left: 22px;
@@ -765,7 +765,7 @@ p {
 5.2: banner css Style
 ==================================================*/
 .home1.banner{
-  padding-top: 340px;
+  padding-top: 250px;
   padding-bottom: 195px;
 }
 .home1.banner .text-area h5{
@@ -1397,13 +1397,13 @@ p {
 }
 .home1.project .item a{
   display: inline-block;
-  text-align: center;
-  background: var(--orange);
-  height: 75px;
-  width: 80px;
+  text-align: left;
+  background: white;
+  height: 85px;
+  width: 250px;
   position: absolute;
-  top: 50%;
-  left: 50%;
+  top: 180px;
+  left: 140px;
   transform: translate(-50%,-50%) scale(0);
   -webkit-transform: translate(-50%,-50%) scale(0);
   -moz-transform: translate(-50%,-50%) scale(0);
@@ -2361,7 +2361,7 @@ p {
   padding-bottom: 90px;
 }
 .service-page.detail .image img{
-  /* width: 100%; */
+  width: 100%;
 }
 .service-page.detail .text{
   padding-right: 50px;

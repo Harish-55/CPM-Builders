@@ -7,7 +7,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="content text-center">
-                        <h2>service page</h2>
+                        <h2>Our services</h2>
                         <nav aria-label="breadcrumb">
                             <ol class="breadcrumb">
                                 <li class="breadcrumb-item"><a href='index.php'>Home</a></li>
@@ -41,7 +41,7 @@
                                     <i class="flaticon-architect"></i>
                                 </div>
                                 <h4>Architect</h4>
-                                <p>Expert architects design your dream space, balancing functionality and aesthetics.<br><br></p>
+                                <p>Expert architects design your dream space, balancing functionality and aesthetics.<br></p>
                                 <a href='architect.php'>read more</a>
                             </div>
                         </div>

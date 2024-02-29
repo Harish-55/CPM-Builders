@@ -18,7 +18,8 @@
                         <nav aria-label="breadcrumb">
                             <ol class="breadcrumb">
                                 <li class="breadcrumb-item"><a href='index.php'>Home</a></li>
-                                <li class="breadcrumb-item active" aria-current="page">Service</li>
+                                <li class="breadcrumb-item"><a href='service.php'>Service</a></li>
+                                <li class="breadcrumb-item active" aria-current="page">Construction</li>
                             </ol>
                         </nav>
                     </div>
@@ -33,8 +34,8 @@
 <section class="service-page detail pt-120">
     <div class="container">
         <div class="left-part">
-            <div class="image" style="text-align: center;">
-                <img src="assets/images/service/construction/1.jpg" alt="Service">
+            <div class="image">
+                <img src="assets/images/service/construction/1.jpg" style="height: 400px; object-fit: cover;" alt="Service">
             </div>
             <div class="text">
                 <h5>Transforming Your Vision into Reality</h5>
@@ -42,10 +43,10 @@
                     Our skilled construction team is passionate about bringing your vision to life.
                     We combine experience, expertise, and meticulous craftsmanship to deliver high-quality construction projects that are on time, on budget, and exceed your expectations.
                 </p>
-                <div class="row pt-3">
+                <div class="row pt-5">
                     <div class="col-5">
-                        <div class="img" style="width: 400px; margin-top: 95px;">
-                            <img src="assets/images/service/construction/2.jpg" alt="Service" style="width: 550px;">
+                        <div class="img" style="width: 400px;">
+                            <img src="assets/images/service/construction/2.jpeg" alt="Service" style="width: 550px;">
                         </div>
                     </div>
                     <div class="col-7">
@@ -77,7 +78,7 @@
                     </div>
                 </div>
 
-                <div class="row pt-3">
+                <div class="row pt-5">
                     <div class="col-7">
                         <h5><b>We are committed to:</b></h5>
                         <p>
@@ -94,7 +95,7 @@
                         </p>
                     </div>
                     <div class="col-5">
-                        <div class="img" style="width: 400px; margin-top: 75px;">
+                        <div class="img" style="width: 400px;">
                             <img src="assets/images/service/construction/3.jpg" alt="Service" style="width: 450px;">
                         </div>
                     </div>
@@ -116,8 +117,8 @@
                     </p>
                 </div>
 
-                <div class="image" style="text-align: center;">
-                    <img src="assets/images/service/construction/4.jpg" alt="Service">
+                <div class="image">
+                    <img src="assets/images/service/construction/4.jpg" style="height: 400px; object-fit: cover;" alt="Service">
                 </div>
 
                 <h5 class="pt-3"><b>Ready to transform your vision into reality?</b></h5>

@@ -2,11 +2,11 @@
 <style>
     .icon-box {
         font-size: 70px;
-        color: #fd5d14;
+        color: #e2b907;
     }
 
     .icon-box-title {
-        color: #fd5d14;
+        color: #e2b907;
         font-weight: 600;
     }
 </style>
@@ -18,7 +18,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="content text-center">
-                        <h2>contact page</h2>
+                        <h2>Contact Us</h2>
                         <nav aria-label="breadcrumb">
                             <ol class="breadcrumb">
                                 <li class="breadcrumb-item"><a href='index.php'>Home</a></li>
@@ -41,7 +41,7 @@
                 <div class="bg icon-box">
                     <div class="row">
 
-                        <div class="col-lg-4">
+                        <div class="col-lg-4 mt-3 mb-5">
                             <div class="icon mt-3">
                                 <i class="fas fa-map-marker-alt"></i>
                             </div>
@@ -57,7 +57,7 @@
                             </div>
                         </div>
 
-                        <div class="col-lg-4">
+                        <div class="col-lg-4 mt-3">
                             <div class="icon mt-3">
                                 <i class="fas fa-phone-alt"></i>
                             </div>
@@ -71,7 +71,7 @@
                             </div>
                         </div>
 
-                        <div class="col-lg-4">
+                        <div class="col-lg-4 mt-3">
                             <div class="icon mt-3">
                                 <i class="far fa-envelope"></i>
                             </div>

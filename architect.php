@@ -1,7 +1,7 @@
 <?php include('header.php') ?>
     <style>
         @media only screen and (max-width: 600px) {
-            [class="col-8"] {
+            [class="col-7"] {
                 width: 100%;
             }
         }
@@ -18,7 +18,8 @@
                         <nav aria-label="breadcrumb">
                             <ol class="breadcrumb">
                                 <li class="breadcrumb-item"><a href='index.php'>Home</a></li>
-                                <li class="breadcrumb-item active" aria-current="page">Service</li>
+                                <li class="breadcrumb-item"><a href='service.php'>Service</a></li>
+                                <li class="breadcrumb-item active" aria-current="page">Architect</li>
                             </ol>
                         </nav>
                     </div>
@@ -50,7 +51,7 @@
                             We start with initial consultations to understand your project goals and aspirations. We then move into concept development, exploring various design options and presenting you with initial sketches and proposals.
                             Once a design is finalized, we create detailed drawings and work closely with engineers and contractors to ensure seamless project execution.
                         </p>
-                        <div class="img">
+                        <div class="img pt-4">
                             <img src="assets/images/service/architect/2.jpg" alt="Service" style="width: 500px;">
                         </div>
                         <div>
@@ -76,8 +77,8 @@
                 </div>
             </div>
         </div>
-        <div class="row">
-            <div class="col-8" style="margin-top: 15px;">
+        <div class="row pt-5">
+            <div class="col-7" style="margin-top: 15px;">
                 <h5><b>We are committed to exceeding your expectations by delivering:</b></h5>
                 <p class="pt-4">
                     <b>Creative and innovative designs : </b>
@@ -92,13 +93,13 @@
                     We keep you informed and involved every step of the way, ensuring clear communication and addressing any concerns promptly.
                 </p>
             </div>
-            <div class="col-4" style="width: 350px; margin-top: 20px;">
+            <div class="col-5" style="width: 350px; margin-top: 20px;">
                 <div class="img">
-                    <img src="assets/images/service/architect/3.jpg" alt="Service" style="width: 450px;">
+                    <img src="assets/images/service/architect/3.jpg" alt="Service" style="width: 450px;height: 310px;">
                 </div>
             </div>
         </div>
-        <p class="pt-3">
+        <p style="margin-top: 70px;">
             We believe in building lasting relationships with our clients and are dedicated to exceeding their expectations. Let us help you turn your vision into reality.
         </p>
         <p class="pt-3">

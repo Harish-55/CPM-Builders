@@ -7,7 +7,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="content text-center">
-                        <h2>project page</h2>
+                        <h2>Our project</h2>
                         <nav aria-label="breadcrumb">
                             <ol class="breadcrumb">
                                 <li class="breadcrumb-item"><a href='index.php'>Home</a></li>
@@ -29,7 +29,6 @@
             <div class="col-xl-6 offset-xl-3 col-lg-8 offset-lg-2">
                 <div class="section-title wow fadeInUp" data-wow-delay="0.3s" data-wow-duration="1s">
                     <h2>explore our project</h2>
-                    <p>Here are some of our best work that can inspire you!!!!</p>
                 </div>
             </div>
             <!-- <div class="col-lg-12">
@@ -48,9 +47,10 @@
                         <div class="row">
                             <div class="col-lg-12 mix com ext res">
                                 <div class="item wow fadeInRight" data-wow-delay="0.3s" data-wow-duration="1s">
-                                    <img src="assets/images/home1/project/1.jpeg" alt="Project">
-                                    <a href="assets/images/home1/project/1.jpeg" class="popup-image">
-                                        <i class="flaticon-plus"></i>
+                                    <img src="assets/images/home1/project/img1.jpeg" alt="Project">
+                                    <a href="assets/images/home1/project/img1a.jpg" class="popup-image">
+                                        <h3>Project Name</h3>
+                                        <p>Place</p>
                                     </a>
                                 </div>
                             </div>

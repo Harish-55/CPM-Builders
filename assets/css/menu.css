@@ -27,7 +27,7 @@
     content: '';
     height: calc(100% - 20px);
     width: 100%;
-    background: rgba(253, 94, 20, 0.84);
+    background: #e2b907;
     position: absolute;
     bottom: 0;
     left: 0;

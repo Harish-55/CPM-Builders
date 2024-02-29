@@ -5,18 +5,22 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 col-md-12">
-                    <div class="content newsletter">
-                        <div class="title">
+                    <div class="">
+                        <div class="">
                             <a class='navbar-brand p-0' href='index.php'>
-                                <img src="assets/images/logo.png" alt="Logo" style="width: 150px;">
+                                <img src="assets/images/logo-white.png" alt="Logo" style="width: 150px;">
                             </a>
                         </div>
-                        <p>Transforming blueprints into beautiful realities. Your reliable partner in construction excellence.</p>
+                        <p style="color: white;">Transforming blueprints into beautiful realities. Your reliable partner in construction excellence.</p>
                     </div>
 
-                    <ul class="icon" style="height: 50px;">
-                        <a href="https://www.facebook.com/cpmbuilders" target="_blank"><i class="fab fa-facebook-f" style="color: #fd5d14;"></i></a>
-                        <!-- <a href="" style="margin-left: 25px;"><i class="fab fa-instagram"></i></a> -->
+                    <ul class="icon mb-5 mt-5">
+                        <a href="https://www.facebook.com/info.cpmbuilders" target="_blank"><i class="fab fa-facebook-f" style="color: #e2b907;"></i></a>
+                        <!-- -->
+                        <a href="https://www.instagram.com/info.cpmbuilders/" target="_blank" style="margin-left: 20px;"><i class="fab fa-instagram" style="color: #e2b907;"></i></a>
+                        <a href="https://www.youtube.com/info.cpmbuilders" target="_blank" style="margin-left: 20px;"><i class="fab fa-youtube" style="color: #e2b907;"></i></a>
+                        <a href="https://www.linkedin.com/info.cpmbuilders" target="_blank" style="margin-left: 20px;"><i class="fab fa-linkedin" style="color: #e2b907;"></i></a>
+
                     </ul>
                 </div>
                 <div class="col-lg-3 col-md-12" style="padding-left: 35px;">
@@ -108,12 +112,12 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <ul class="d-flex">
-                                    <li><span style="color: white;">Copyright &copy; 2024</span><a href="javascript:void(0)" style="color: #fd5d14;"> CPM Builders</a><span style="color: white;"> . All Rights Reserved </span></li>
+                                    <li><span style="color: white;">Copyright &copy; 2024</span><a href="javascript:void(0)" style="color: #e2b907;"> CPM Builders</a><span style="color: white;"> . All Rights Reserved </span></li>
                                 </ul>
                             </div>
                             <div class="col-lg-6">
                                 <ul class="d-flex justify-content-end">
-                                    <li><span style="color: white;">Crafted by</span><a href="https://zworktechnology.com/" target="_blank" style="color: #fd5d14;text-transform: none;"> zworktechnology.com</a></li>
+                                    <li><span style="color: white;">Crafted by</span><a href="https://zworktechnology.com/" target="_blank" style="color: #e2b907;text-transform: none;"> zworktechnology.com</a></li>
                                 </ul>
                             </div>
                         </div>

@@ -7,7 +7,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="content text-center">
-                        <h2>about page</h2>
+                        <h2>About Us</h2>
                         <nav aria-label="breadcrumb">
                             <ol class="breadcrumb">
                                 <li class="breadcrumb-item"><a href='index.php'>Home</a></li>
@@ -221,7 +221,7 @@
                 </div>
                 <div class="col-lg-6 order-0 order-lg-1">
                     <div class="content vid-content text-center">
-                        <a class="venobox" data-autoplay="true" data-vbtype="video" href="javascript:void(0)">
+                        <a class="venobox" data-autoplay="true" data-vbtype="" href="javascript:void(0)">
                             <i class="flaticon-play-button"></i>
                         </a>
                     </div>
@@ -233,13 +233,14 @@
 <!-- end video area -->
 
 <!-- start client area -->
-<section class="home1 client p-120">
+<section class="home1 client p-120" data-img="assets/images/home1/client/bg.jpg">
     <div class="container">
         <div class="row">
             <div class="col-xl-6 offset-xl-3 col-lg-8 offset-lg-2">
                 <div class="section-title wow fadeInUp" data-wow-delay="0.3s" data-wow-duration="1s">
                     <h2>our customers love</h2>
-                    <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua saidul</p> -->
+                    <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+                        labore et dolore magna aliqua saidul</p> -->
                 </div>
             </div>
             <div class="col-lg-12">
@@ -280,7 +281,8 @@
                                                 </ul>
                                             </div>
                                             <p>
-                                                Working with CPM Builders was a breeze! Project Manager Saravanan kept us informed and ensured our project was delivered on time and within budget.
+                                                Architect at CPM Builders patiently designed our dream home.
+                                                The construction team was professional and kept us informed. We love our new home!
                                             </p>
                                         </div>
                                     </div>
@@ -300,7 +302,29 @@
                                                 </ul>
                                             </div>
                                             <p>
-                                                CPM Builders is a reliable and trustworthy partner for all our construction needs. We highly recommend them!
+                                                CPM Builders' engineers ensured our new office building was safe and aesthetically pleasing.
+                                                Highly recommend them for commercial projects in Trichy.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="item swiper-slide">
+                                        <div class="content">
+                                            <div class="author d-flex justify-content-between align-items-center">
+                                                <div class="name">
+                                                    <h5>Happy Customer</h5>
+                                                    <p class="designation">From Google</p>
+                                                </div>
+                                                <ul class="rating d-flex">
+                                                    <li><i class="fas fa-star"></i></li>
+                                                    <li><i class="fas fa-star"></i></li>
+                                                    <li><i class="fas fa-star"></i></li>
+                                                    <li><i class="fas fa-star"></i></li>
+                                                    <li><i class="fas fa-star"></i></li>
+                                                </ul>
+                                            </div>
+                                            <p>
+                                                CPM Builders transformed our outdated kitchen into a modern dream space.
+                                                They were flexible and exceeded expectations. Thank you!
                                             </p>
                                         </div>
                                     </div>

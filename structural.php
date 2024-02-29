@@ -18,7 +18,8 @@
                         <nav aria-label="breadcrumb">
                             <ol class="breadcrumb">
                                 <li class="breadcrumb-item"><a href='index.php'>Home</a></li>
-                                <li class="breadcrumb-item active" aria-current="page">Service</li>
+                                <li class="breadcrumb-item"><a href='service.php'>Service</a></li>
+                                <li class="breadcrumb-item active" aria-current="page">Structural</li>
                             </ol>
                         </nav>
                     </div>
@@ -33,8 +34,8 @@
 <section class="service-page detail pt-80">
     <div class="container">
         <div class="left-part">
-            <div class="image" style="text-align: center;">
-                <img src="assets/images/service/structural/1.jpg" alt="Service">
+            <div class="image">
+                <img src="assets/images/service/structural/1.jpg" style="height: 400px; object-fit: cover;" alt="Service">
             </div>
             <div class="text">
                 <h5>Building a Solid Foundation for Your Vision</h5>
@@ -42,9 +43,9 @@
                     Our team of highly qualified structural engineers is dedicated to ensuring the safety, stability, and longevity of your building projects.
                     We combine cutting-edge expertise with meticulous attention to detail to provide comprehensive structural engineering solutions tailored to your specific needs.
                 </p>
-                <div class="row pt-3 text">
+                <div class="row pt-5">
                     <div class="col-5">
-                        <div class="img" style="width: 400px; margin-top: 75px;">
+                        <div class="img" style="width: 400px;">
                             <img src="assets/images/service/structural/2.jpg" alt="Service" style="width: 550px;">
                         </div>
                     </div>
@@ -73,7 +74,7 @@
                     </div>
                 </div>
 
-                <div class="row pt-3">
+                <div class="row pt-5">
                     <div class="col-7">
                         <h5><b>We are committed to:</b></h5>
                         <p>
@@ -90,14 +91,14 @@
                         </p>
                     </div>
                     <div class="col-5">
-                        <div class="img" style="width: 400px; margin-top: 75px;">
+                        <div class="img" style="width: 400px;">
                             <img src="assets/images/service/structural/3.jpg" alt="Service" style="width: 450px;">
                         </div>
                     </div>
                 </div>
 
                 <div>
-                    <h5 class="pt-3"><b>Why Choose Us ?</b></h5>
+                    <h5 class="pt-5"><b>Why Choose Us ?</b></h5>
                     <p>
                         <b>Experienced and qualified engineers : </b>
                         Our team possesses extensive experience and holds relevant professional certifications.
@@ -113,7 +114,7 @@
                 </div>
 
                 <div class="image" style="text-align: center;">
-                    <img src="assets/images/service/structural/4.jpg" alt="Service">
+                    <img src="assets/images/service/structural/4.jpg" style="height: 400px; object-fit: cover;" alt="Service">
                 </div>
 
                 <h5 class="pt-3"><b>Ready to build a strong foundation for your project?</b></h5>

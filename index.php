@@ -8,7 +8,7 @@
                 <div class="text-area">
                     <h5 class="wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1s">Building Your Dreams, Together</h5>
                     <h1 class="wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="1s">Trichy's Trusted Architects, Structural Engineers, and Builders.</h1>
-                    <p class="wow fadeInUp" data-wow-delay="0.6s" data-wow-duration="1s">
+                    <p class="wow fadeInUp" data-wow-delay="0.6s" data-wow-duration="1s" style="color: white;">
                         Your one-stop shop for all your architectural, structural, and construction needs.
                     </p>
                     <ul class="d-flex wow fadeInUp" data-wow-delay="0.8s" data-wow-duration="1s">
@@ -56,6 +56,7 @@
                                         </div>
                                         <h4>interior design</h4>
                                         <p>Transform your space with personalized designs that reflect your unique style and functionality.</p>
+                                        <br>
                                     </div>
                                 </div>
                                 <div class="back">
@@ -65,6 +66,7 @@
                                         </div>
                                         <h4>interior design</h4>
                                         <p>Transform your space with personalized designs that reflect your unique style and functionality.</p>
+                                        <br>
                                     </div>
                                 </div>
                             </div>
@@ -149,6 +151,33 @@
 </section>
 <!-- end feature area -->
 
+<!-- start video area -->
+<section class="home1 video" data-img="assets/images/home1/video/bg.jpg">
+    <div class="overlay p-110">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6 order-1 order-lg-0">
+                    <div class="section-title wow fadeInUp" data-wow-delay="0.3s" data-wow-duration="1s">
+                        <h2>Let's Discuss Your Project: Free Consultation Available.</h2>
+                        <p>Don't wait! Get a free quote and see how we can bring your vision to life.</p>
+                    </div>
+                    <div class="content wow fadeInUp" data-wow-delay="0.5s" data-wow-duration="1s">
+                        <a class='button-style' href='contact.php'>read more <i class="fas fa-arrow-circle-right"></i></a>
+                    </div>
+                </div>
+                <div class="col-lg-6 order-0 order-lg-1">
+                    <div class="content vid-content text-center">
+                        <a class="venobox" data-autoplay="true" data-vbtype="" href="javascript:void(0)">
+                            <i class="flaticon-play-button"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end video area -->
+
 <!-- start about area -->
 <section class="home1 about pt-120">
     <div class="container">
@@ -214,7 +243,7 @@
                                     <i class="flaticon-architect"></i>
                                 </div>
                                 <h4>Architect</h4>
-                                <p>Expert architects design your dream space, balancing functionality and aesthetics.<br><br></p>
+                                <p>Expert architects design your dream space, balancing functionality and aesthetics.<br></p>
                                 <a href='architect.php'>read more</a>
                             </div>
                         </div>
@@ -250,42 +279,15 @@
 </section>
 <!-- end service area -->
 
-<!-- start video area -->
-<section class="home1 video" data-img="assets/images/home1/video/bg.jpg">
-    <div class="overlay p-110">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-6 order-1 order-lg-0">
-                    <div class="section-title wow fadeInUp" data-wow-delay="0.3s" data-wow-duration="1s">
-                        <h2>Let's Discuss Your Project: Free Consultation Available.</h2>
-                        <p>Don't wait! Get a free quote and see how we can bring your vision to life.</p>
-                    </div>
-                    <div class="content wow fadeInUp" data-wow-delay="0.5s" data-wow-duration="1s">
-                        <a class='button-style' href='contact.php'>read more <i class="fas fa-arrow-circle-right"></i></a>
-                    </div>
-                </div>
-                <div class="col-lg-6 order-0 order-lg-1">
-                    <div class="content vid-content text-center">
-                        <a class="venobox" data-autoplay="true" data-vbtype="video" href="javascript:void(0)">
-                            <i class="flaticon-play-button"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- end video area -->
-
 <!-- start client area -->
-<section class="home1 client p-120" data-img="assets/images/home1/client/bg.jpg">
+<!-- <section class="home1 client p-120" data-img="assets/images/home1/client/bg.jpg">
     <div class="container">
         <div class="row">
             <div class="col-xl-6 offset-xl-3 col-lg-8 offset-lg-2">
                 <div class="section-title wow fadeInUp" data-wow-delay="0.3s" data-wow-duration="1s">
                     <h2>our customers love</h2>
-                    <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua saidul</p> -->
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+                        labore et dolore magna aliqua saidul</p>
                 </div>
             </div>
             <div class="col-lg-12">
@@ -377,7 +379,7 @@
                             </div>
                         </div>
                     </div>
-                    <!-- slider navigation -->
+                    
                     <div class="client-nav">
                         <button class="client-button-prev">
                             <i class="fas fa-chevron-left"></i>
@@ -390,7 +392,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <!-- end client area -->
 
 <?php include('footer.php') ?>
